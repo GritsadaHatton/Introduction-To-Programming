@@ -25,19 +25,16 @@ namespace Exercise2
                 { 
                     Console.WriteLine("Login Successful");
                 }
+                else
+                {   
+                    Console.WriteLine("Login Unsuccessful");
+                }
             }
         else
         {   
             Console.WriteLine("Login Unsuccessful");
         }
-            
-        
 
-
-
-
-
-        
         }
     }
 }
