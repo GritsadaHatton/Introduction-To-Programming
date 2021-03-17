@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\SelectionTask\\SelectionTask.csproj",
-      "projectName": "SelectionTask",
-      "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\SelectionTask\\SelectionTask.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\Selection\\Selection.csproj",
+      "projectName": "Selection",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\Selection\\Selection.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\SelectionTask\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documents\\Swinburne\\Certificate IV in IT\\Introduction to Programming\\ITP\\Selection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
