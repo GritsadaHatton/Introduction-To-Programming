@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.exe
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.deps.json
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.dll
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\ref\Rock_Paper_Scissors.dll
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\bin\Debug\net5.0\Rock_Paper_Scissors.pdb
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.dll
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\ref\Rock_Paper_Scissors.dll
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.pdb
+C:\Users\User\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Rock_Paper_Scissors\obj\Debug\net5.0\Rock_Paper_Scissors.genruntimeconfig.cache
