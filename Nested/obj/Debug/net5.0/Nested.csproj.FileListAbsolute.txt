@@ -1,0 +1,16 @@
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.csprojAssemblyReference.cache
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.AssemblyInfoInputs.cache
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.AssemblyInfo.cs
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.csproj.CoreCompileInputs.cache
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.exe
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.deps.json
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.runtimeconfig.json
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.runtimeconfig.dev.json
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.dll
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\ref\Nested.dll
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\bin\Debug\net5.0\Nested.pdb
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.dll
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\ref\Nested.dll
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.pdb
+C:\Users\grits\OneDrive\Documents\Swinburne\Certificate IV in IT\Introduction to Programming\ITP\Nested\obj\Debug\net5.0\Nested.genruntimeconfig.cache
