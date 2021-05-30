@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.exe
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.deps.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.runtimeconfig.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.runtimeconfig.dev.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\ref\Lists_Submittable.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\bin\Debug\net5.0\Lists_Submittable.pdb
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.AssemblyInfo.cs
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\ref\Lists_Submittable.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.pdb
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Lists_Submittable\obj\Debug\net5.0\Lists_Submittable.genruntimeconfig.cache

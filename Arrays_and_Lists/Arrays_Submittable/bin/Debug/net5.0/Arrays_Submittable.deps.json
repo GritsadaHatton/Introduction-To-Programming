@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Arrays_Submittable/1.0.0": {
+        "runtime": {
+          "Arrays_Submittable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays_Submittable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
