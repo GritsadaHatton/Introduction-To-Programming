@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.exe
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.deps.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.runtimeconfig.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.runtimeconfig.dev.json
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\ref\Arrays2.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\bin\Debug\net5.0\Arrays2.pdb
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.AssemblyInfo.cs
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\ref\Arrays2.dll
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.pdb
+C:\Users\User\OneDrive - Swinburne University\Certificate IV in IT\Introduction to Programming\ITP\Arrays_and_Lists\Arrays_Submittable\Arrays2\obj\Debug\net5.0\Arrays2.genruntimeconfig.cache

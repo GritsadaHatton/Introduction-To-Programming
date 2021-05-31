@@ -22,7 +22,7 @@ namespace Repetition
             
                 System.Console.WriteLine(input);
 
-                //counter = counter + 1
+                
                 counter++;
             }
 
